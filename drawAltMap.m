@@ -1,0 +1,5 @@
+function drawAltMap(points)
+
+
+
+end
